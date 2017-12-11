@@ -2,18 +2,18 @@ module.exports = {
   enable: true,
   activity: {
     application: '385475122854756353',
-    name: '▽E+',
+    name: 'Motion',
     type: 'PLAYING',
-    details: 'v0.1',
+    details: 'Quantum',
     state: 'Status: Ongoing | State: Unknown',
     timestamps: {
       start: null,
     },
     assets: {
-      largeImage: '387318139681243137',
-      largeText: 'wall',
-      smallImage: '388089748918370315',
-      smallText: 'eye'
+      largeImage: '389819364968366090',
+      largeText: 'n',
+      smallImage: '389820031556648960',
+      smallText: 'q'
     },
     party: null,
   },
