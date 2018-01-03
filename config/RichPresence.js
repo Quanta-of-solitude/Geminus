@@ -3,15 +3,15 @@ module.exports = {
   activity: {
     application: '385475122854756353',
     name: 'Nothing',
-    type: 'PLAYING',
+    type: 'STREAMING',
     details: 'Special',
     state: 'Status: Ongoing | State: Unknown',
     timestamps: true,
     assets: {
-      largeImage: '389819364968366090',
-      largeText: 'n',
-      smallImage: '389820031556648960',
-      smallText: 'q'
+      largeImage: 'afk',
+      largeText: 'AFK',
+      smallImage: 'q',
+      smallText: 'Question?'
     },
     party: null,
   },
