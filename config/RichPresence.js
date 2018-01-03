@@ -2,12 +2,12 @@ module.exports = {
   enable: true,
   activity: {
     application: '385475122854756353',
-    name: 'Motion',
+    name: 'Dead',
     type: 'PLAYING',
-    details: 'Quantum',
+    details: 'Inside',
     state: 'Status: Ongoing | State: Unknown',
     timestamps: {
-      start: null,
+      start: true,
     },
     assets: {
       largeImage: '389819364968366090',
