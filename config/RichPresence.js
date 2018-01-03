@@ -6,9 +6,7 @@ module.exports = {
     type: 'PLAYING',
     details: 'Special',
     state: 'Status: Ongoing | State: Unknown',
-    timestamps: {
-      start: true,
-    },
+    timestamps: true,
     assets: {
       largeImage: '389819364968366090',
       largeText: 'n',
