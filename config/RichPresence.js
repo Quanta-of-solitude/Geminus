@@ -6,7 +6,7 @@ module.exports = {
     type: 'STREAMING',
     details: 'Special',
     state: 'Status: Ongoing | State: Unknown',
-    timestamps: true,
+    timestamp: true,
     assets: {
       largeImage: 'afk',
       largeText: 'AFK',
