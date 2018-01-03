@@ -2,9 +2,9 @@ module.exports = {
   enable: true,
   activity: {
     application: '385475122854756353',
-    name: 'Dead',
+    name: 'Nothing',
     type: 'PLAYING',
-    details: 'Inside',
+    details: 'Special',
     state: 'Status: Ongoing | State: Unknown',
     timestamps: {
       start: true,
