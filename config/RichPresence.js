@@ -3,12 +3,11 @@ module.exports = {
   activity: {
     application: '385475122854756353',
     name: 'AFK',
-    type: 'STREAMING',
-    url: "https://www.twitch.tv/quain24n",
+    type: 'LISTENING',
     details: 'For Life!',
     state: 'Status: Ongoing | State: Forever',
     timestamps: {
-      start: "5m",
+      end: "666d",
     },
     assets: {
       largeImage: 'afkk',
