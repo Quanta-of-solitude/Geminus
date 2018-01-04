@@ -8,15 +8,14 @@ module.exports = {
     details: 'For Life!',
     state: 'Status: Ongoing | State: Forever',
     timestamps:{
-     timeType: "start",
-      whatTime: "0s"
+     start: "0s"
     },
     assets: {
       largeImage: 'afkk',
       largeText: 'AFK',
       smallImage: 'q',
       smallText: 'Question?',
-      
+      showButton: true
     },
     party: null,
   },
