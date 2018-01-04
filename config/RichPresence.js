@@ -7,7 +7,7 @@ module.exports = {
     details: 'For Life!',
     state: 'Status: Ongoing | State: Forever',
     timestamps: {
-      start: "0s",
+      start: null,
     },
     assets: {
       largeImage: 'afkk',
