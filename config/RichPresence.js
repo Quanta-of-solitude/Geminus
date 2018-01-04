@@ -8,7 +8,7 @@ module.exports = {
     details: 'For Life!',
     state: 'Status: Ongoing | State: Forever',
     timestamps:{
-     timeType: "none",
+     timeType: "start",
       whatTime: "0s"
     },
     assets: {
