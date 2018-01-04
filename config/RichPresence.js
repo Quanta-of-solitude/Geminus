@@ -16,7 +16,6 @@ module.exports = {
       largeText: 'AFK',
       smallImage: 'q',
       smallText: 'Question?',
-      showButton: true
       
     },
     party: null,
