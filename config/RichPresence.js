@@ -4,11 +4,10 @@ module.exports = {
     application: '385475122854756353',
     name: 'AFK',
     type: 'STREAMING',
-    url: "Nothing!",
     details: 'For Life!',
     state: 'Status: Ongoing | State: Forever',
-    timestamps:{
-     start: "0s"
+    timestamps: {
+      start: "0s",
     },
     assets: {
       largeImage: 'afkk',
