@@ -3,7 +3,7 @@ module.exports = {
   activity: {
     application: '385475122854756353',
     name: 'AFK',
-    type: 'WATCHING',
+    type: 'STREAMING',
     details: 'For Life!',
     state: 'Status: Ongoing | State: Forever',
     timestamp:{
