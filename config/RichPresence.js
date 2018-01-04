@@ -7,13 +7,14 @@ module.exports = {
     details: 'For Life!',
     state: 'Status: Ongoing | State: Forever',
     timestamps:{
-     start: 1 
+     start: "1h",
     },
     assets: {
       largeImage: 'afkk',
       largeText: 'AFK',
       smallImage: 'q',
-      smallText: 'Question?'
+      smallText: 'Question?',
+      url: "Nothing!",
     },
     party: null,
   },
