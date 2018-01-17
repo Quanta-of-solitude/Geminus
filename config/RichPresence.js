@@ -2,16 +2,16 @@ module.exports = {
   enable: true,
   activity: {
     application: '385475122854756353',
-    name: 'AFK',
+    name: 'Nothing',
     type: 'STREAMING',
-    details: 'For Life!',
+    details: 'Good Happens...',
     state: 'Status: Ongoing | State: Forever',
     timestamps: {
       start: null,
     },
     assets: {
-      largeImage: 'afkk',
-      largeText: 'AFK',
+      largeImage: 'dark-n',
+      largeText: 'Nothing',
       smallImage: 'q',
       smallText: 'Question?',
     },
