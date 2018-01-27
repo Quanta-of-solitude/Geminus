@@ -4,7 +4,7 @@ module.exports = {
     application: '385475122854756353',
     name: '∆E+',
     type: 'STREAMING',
-    details: 'Playing AQ3D',
+    details: 'Playing AdventureQuest 3D',
     state: 'Status: Online | Server: Red Dragon',
     timestamps: {
       start: null,
