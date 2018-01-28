@@ -10,8 +10,8 @@ module.exports = {
       start: null,
     },
     assets: {
-      largeImage: 'noblesse',
-      largeText: 'Noble',
+      largeImage: 'noblessee',
+      largeText: 'Noblesse',
       smallImage: 'noble',
       smallText: 'Noble',
     },
