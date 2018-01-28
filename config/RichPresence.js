@@ -7,12 +7,12 @@ module.exports = {
     details: 'Playing AdventureQuest 3D',
     state: 'Status: Online | Server: Red Dragon',
     timestamps: {
-      start: null,
+      start: Date.now(),
     },
     assets: {
       largeImage: 'noblessee',
       largeText: 'Noblesse',
-      smallImage: 'noble',
+      smallImage: 'dice',
       smallText: 'Noble',
     },
     party: null,
