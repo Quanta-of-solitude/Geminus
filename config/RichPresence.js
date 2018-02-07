@@ -2,17 +2,17 @@ module.exports = {
   enable: true,
   activity: {
     application: '385475122854756353',
-    name: '∆E+',
+    name: 'AFK',
     type: 'STREAMING',
-    details: 'Playing AdventureQuest 3D',
-    state: 'Status: Online | Server: Red Dragon',
+    details: 'Away...',
+    state: 'Status: Not here | State: Forever',
     timestamps: {
       start: Date.now(),
     },
     assets: {
-      largeImage: 'noblessee',
-      largeText: 'Noblesse',
-      smallImage: 'dice',
+      largeImage: 'afkk',
+      largeText: 'out',
+      smallImage: 'noble',
       smallText: 'Noble',
     },
     party: null,
