@@ -2,9 +2,9 @@ module.exports = {
   enable: true,
   activity: {
     application: '385475122854756353',
-    name: 'AFK',
+    name: 'Away...',
     type: 'STREAMING',
-    details: 'Away...',
+    details: 'AFK',
     state: 'Status: Not here | State: Forever',
     timestamps: {
       start: Date.now(),
