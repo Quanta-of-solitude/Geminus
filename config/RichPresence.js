@@ -7,12 +7,12 @@ module.exports = {
     details: 'AFK',
     state: 'Status: Not here | State: Forever',
     timestamps: {
-      start: Date.now(),
+      start: null,
     },
     assets: {
-      largeImage: 'afkk',
+      largeImage: 'wall',
       largeText: 'out',
-      smallImage: 'noble',
+      smallImage: 'afkk',
       smallText: 'Noble',
     },
     party: null,
