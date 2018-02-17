@@ -10,7 +10,7 @@ module.exports = {
       start: null,
     },
     assets: {
-      largeImage: 'wall',
+      largeImage: 'dark-n',
       largeText: 'out',
       smallImage: 'afkk',
       smallText: 'Noble',
