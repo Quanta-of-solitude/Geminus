@@ -313,9 +313,9 @@ delayed-stream@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/delayed-stream/-/delayed-stream-1.0.0.tgz#df3ae199acadfb7d440aaae0b29e2272b24ec619"
 
-"discord.js-commando@https://github.com/NoblesseNoble/discord.js-commando":
+"discord.js-commando@git+https://github.com/Favna/discord.js-commando.git#active":
   version "0.9.0"
-  resolved "https://github.com/NoblesseNoble/discord.js-commando#7aa08a6109b59e8794e9b4aa8364e4a189d3a4f7"
+  resolved "git+https://github.com/Favna/discord.js-commando.git#eb498c2f2ab126ee802b5f5da103d63f28c24884"
   dependencies:
     common-tags "^1.0.0"
     escape-string-regexp "^1.0.0"
