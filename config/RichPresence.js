@@ -1,5 +1,5 @@
 module.exports = {
-  enable: false,
+  enable: true,
   activity: {
     application: '385475122854756353',
     name: 'No Life...',
