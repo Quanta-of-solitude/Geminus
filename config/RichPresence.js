@@ -2,10 +2,10 @@ module.exports = {
   enable: false,
   activity: {
     application: '385475122854756353',
-    name: 'Away...',
+    name: 'No Life...',
     type: 'STREAMING',
-    details: 'AFK',
-    state: 'Status: Not here | State: Forever',
+    details: 'Away, not here.',
+    state: 'Status: AFK | State: Forever',
     timestamps: {
       start: null,
     },
