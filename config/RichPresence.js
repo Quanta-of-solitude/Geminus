@@ -2,7 +2,7 @@ module.exports = {
   enable: true,
   activity: {
     application: '385475122854756353',
-    name: 'No Life...',
+    name: 'Thinking...',
     type: 'STREAMING',
     details: 'Away, not here.',
     state: 'Status: AFK | State: Forever',
@@ -10,8 +10,8 @@ module.exports = {
       start: null,
     },
     assets: {
-      largeImage: 'dark-n',
-      largeText: 'out',
+      largeImage: 'huee',
+      largeText: 'Hmmm',
       smallImage: 'afkk',
       smallText: 'Noble',
     },
