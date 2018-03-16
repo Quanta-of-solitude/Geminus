@@ -7,7 +7,7 @@ module.exports = {
     details: '<AFK>',
     state: 'Red Dragon | Underworld Gate',
     timestamps: {
-      start: null,
+      start: Date.now(),
     },
     assets: {
       largeImage: 'aq3d',
