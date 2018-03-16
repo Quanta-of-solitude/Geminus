@@ -5,9 +5,9 @@ module.exports = {
     name: 'AdventureQuest 3D',
     type: 'STREAMING',
     details: '<AFK>',
-    state: 'Red Dragon | Underworld Gate',
+    state: 'Red Dragon | Battleon',
     timestamps: {
-      start: Date.now(),
+      start: null,
     },
     assets: {
       largeImage: 'aq3d',
